@@ -3,7 +3,7 @@
 |Authors| LinkedIn | GitHub |
 |-------|----------|--------|
 |Anand Ramakrishnan|#|#|
-|Nick Van Bergen|#|#|
+|Nick Van Bergen| [LinkedIn](https://www.linkedin.com/in/planetvb/)|[GitHub](https://github.com/nvbergen)|
 |Steven Tran|#|#|
 
 # Executive Summary
